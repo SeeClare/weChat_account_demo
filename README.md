@@ -14,7 +14,7 @@ line 292.   用户OpenId
 line 321.   用户OpenId
 
 地址?open=1 //设置菜单栏
+
 地址?open=2 //发送模板
+
 地址?open=3 //获取用户信息# -Demo
-# weChat_account_demo
-# weChat_account_demo
